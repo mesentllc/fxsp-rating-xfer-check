@@ -1,0 +1,3177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ECIPackages>
+	<Package>
+		<SpShipperNum9>101241327</SpShipperNum9>
+		<SpPackageNum>41990100130430000279</SpPackageNum>
+		<SpManifestNum>0003366208                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>15.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>15.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>33102      </SpDestZip>
+		<SpSortLocation>DNCO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost                     </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXN4JO7                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366208                    </SpInboundManifestId>
+		<SpOriginPostalCode>84115      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100003719</SpMeterNumber>
+		<SpThirdPartyBillingNumber>101241327</SpThirdPartyBillingNumber>
+		<SpSendAddrName>BROUGH, ROXANNE                    </SpSendAddrName>
+		<SpSendAddrCompany>O C TANNER/CORPORATE OFFICE        </SpSendAddrCompany>
+		<SpSendAddrLine1>1865 S MAIN ST STE 12              </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>SALT LAKE CITY      </SpSendAddrCity>
+		<SpSendAddrState>UT</SpSendAddrState>
+		<SpSendAddrZip>841152090  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>Richard Taylor                     </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-609480-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1168 FEDEX PRKWY                   </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Suite 101                          </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>FL</SpRecipAddrState>
+		<SpRecipAddrZip>33102      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>84115      </SpFirstScanZip>
+		<SpTrueShipper>101241327</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>101241327</SpShipperNum9>
+		<SpPackageNum>74890100130430250026</SpPackageNum>
+		<SpManifestNum>0003366208                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom/>
+		<SpCustWgt/>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom/>
+		<SpActualWgt/>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96801      </SpDestZip>
+		<SpSortLocation>DNCO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smartpost Sm Shipper          </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0914</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SWAU4Q4                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366208                    </SpInboundManifestId>
+		<SpOriginPostalCode>84115      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>000139042</SpMeterNumber>
+		<SpThirdPartyBillingNumber>101241327</SpThirdPartyBillingNumber>
+		<SpSendAddrName>BROUGH, ROXANNE                    </SpSendAddrName>
+		<SpSendAddrCompany>O C TANNER/CORPORATE OFFICE        </SpSendAddrCompany>
+		<SpSendAddrLine1>1865 S MAIN ST STE 12              </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>SALT LAKE CITY      </SpSendAddrCity>
+		<SpSendAddrState>UT</SpSendAddrState>
+		<SpSendAddrZip>841152090  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>Fedex - Global Revenue Testing     </SpRecipAddrName>
+		<SpRecipAddrCompany>CAFE-609435-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>741 Dubois                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Suite 101                          </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96801      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>84115      </SpFirstScanZip>
+		<SpTrueShipper>101241327</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>102678834</SpShipperNum9>
+		<SpPackageNum>61208445515330003870</SpPackageNum>
+		<SpManifestNum>0003366210                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>10.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>20</SpCustLength>
+		<SpCustWidth>20</SpCustWidth>
+		<SpCustHeight>18</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>10.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>20</SpActualLength>
+		<SpActualWidth>20</SpActualWidth>
+		<SpActualHeight>18</SpActualHeight>
+		<SpDestZip>51103      </SpDestZip>
+		<SpSortLocation>NOMA</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>BR494148-BALLOON-PARCEL-SELECT</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>B</SpHandlingType>
+		<SpCustomerManifest>5EXN4MCP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366210                    </SpInboundManifestId>
+		<SpOriginPostalCode>01532      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>PO-494148-75220               </SpPurchaseOrderNumber>
+		<SpMeterNumber>100002029</SpMeterNumber>
+		<SpThirdPartyBillingNumber>102678834</SpThirdPartyBillingNumber>
+		<SpSendAddrName>KEVIN BALCH                        </SpSendAddrName>
+		<SpSendAddrCompany>DRAPER S &amp; DAMON S CATALOG         </SpSendAddrCompany>
+		<SpSendAddrLine1>9 PASTEUR                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>IRVINE              </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>926183817  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>PRUDENTIAL REALTY                  </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-611648-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>100 PRUDENTIAL LANE                </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Suite 101                          </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>IA</SpRecipAddrState>
+		<SpRecipAddrZip>51103      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01532      </SpFirstScanZip>
+		<SpTrueShipper>102678834</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>102678834</SpShipperNum9>
+		<SpPackageNum>74808445515330003753</SpPackageNum>
+		<SpManifestNum>0003366210                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom/>
+		<SpCustWgt/>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom/>
+		<SpActualWgt/>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96701      </SpDestZip>
+		<SpSortLocation>NOMA</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost                     </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0914</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXN4MCP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366210                    </SpInboundManifestId>
+		<SpOriginPostalCode>01532      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100002029</SpMeterNumber>
+		<SpThirdPartyBillingNumber>102678834</SpThirdPartyBillingNumber>
+		<SpSendAddrName>KEVIN BALCH                        </SpSendAddrName>
+		<SpSendAddrCompany>DRAPER S &amp; DAMON S CATALOG         </SpSendAddrCompany>
+		<SpSendAddrLine1>9 PASTEUR                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>IRVINE              </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>926183817  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>Richard Taylor                     </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-608745-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>2296 FEDEX PRKWY                   </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Suite 101                          </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96701      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01532      </SpFirstScanZip>
+		<SpTrueShipper>102678834</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>102678834</SpShipperNum9>
+		<SpPackageNum>74808445515330003784</SpPackageNum>
+		<SpManifestNum>0003366210                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom/>
+		<SpCustWgt/>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom/>
+		<SpActualWgt/>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>10516      </SpDestZip>
+		<SpSortLocation>NOMA</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost                     </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0914</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXN4MCP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366210                    </SpInboundManifestId>
+		<SpOriginPostalCode>01532      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100002029</SpMeterNumber>
+		<SpThirdPartyBillingNumber>102678834</SpThirdPartyBillingNumber>
+		<SpSendAddrName>KEVIN BALCH                        </SpSendAddrName>
+		<SpSendAddrCompany>DRAPER S &amp; DAMON S CATALOG         </SpSendAddrCompany>
+		<SpSendAddrLine1>9 PASTEUR                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>IRVINE              </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>926183817  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>REGGIE                             </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-608762-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>2283 FEDEX PRKWY                   </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Appt 101                           </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>10516      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01532      </SpFirstScanZip>
+		<SpTrueShipper>102678834</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>102678834</SpShipperNum9>
+		<SpPackageNum>74808445515330003814</SpPackageNum>
+		<SpManifestNum>0003366210                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom/>
+		<SpCustWgt/>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom/>
+		<SpActualWgt/>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>30324      </SpDestZip>
+		<SpSortLocation>NOMA</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost                     </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0914</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXN4MCP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366210                    </SpInboundManifestId>
+		<SpOriginPostalCode>01532      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100002029</SpMeterNumber>
+		<SpThirdPartyBillingNumber>102678834</SpThirdPartyBillingNumber>
+		<SpSendAddrName>KEVIN BALCH                        </SpSendAddrName>
+		<SpSendAddrCompany>DRAPER S &amp; DAMON S CATALOG         </SpSendAddrCompany>
+		<SpSendAddrLine1>9 PASTEUR                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>IRVINE              </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>926183817  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>REGGIE                             </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-608765-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>2286 FEDEX PRKWY                   </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Appt 101                           </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>GA</SpRecipAddrState>
+		<SpRecipAddrZip>30324      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01532      </SpFirstScanZip>
+		<SpTrueShipper>102678834</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>102678834</SpShipperNum9>
+		<SpPackageNum>74808445515330003869</SpPackageNum>
+		<SpManifestNum>0003366210                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom/>
+		<SpCustWgt/>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom/>
+		<SpActualWgt/>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96801      </SpDestZip>
+		<SpSortLocation>NOMA</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smartpost Sm Shipper          </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0914</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXN4MCP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366210                    </SpInboundManifestId>
+		<SpOriginPostalCode>01532      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100002029</SpMeterNumber>
+		<SpThirdPartyBillingNumber>102678834</SpThirdPartyBillingNumber>
+		<SpSendAddrName>KEVIN BALCH                        </SpSendAddrName>
+		<SpSendAddrCompany>DRAPER S &amp; DAMON S CATALOG         </SpSendAddrCompany>
+		<SpSendAddrLine1>9 PASTEUR                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>IRVINE              </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>926183817  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>Fedex - Global Revenue Testing     </SpRecipAddrName>
+		<SpRecipAddrCompany>WEBS-608837-SL1502C3               </SpRecipAddrCompany>
+		<SpRecipAddrLine1>741 Dubois                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2>Suite 101                          </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96801      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01532      </SpFirstScanZip>
+		<SpTrueShipper>102678834</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>247329005</SpShipperNum9>
+		<SpPackageNum>61211300406830225740</SpPackageNum>
+		<SpManifestNum>0003366245                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>774773913  </SpDestZip>
+		<SpSortLocation>STMO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smash 2 Return Refin0000140557</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5SKTVG89                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366245                    </SpInboundManifestId>
+		<SpOriginPostalCode>63353      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>012345678901234567890123456789</SpPurchaseOrderNumber>
+		<SpMeterNumber>000138304</SpMeterNumber>
+		<SpThirdPartyBillingNumber>247329005</SpThirdPartyBillingNumber>
+		<SpSendAddrName>GFBO-SP                            </SpSendAddrName>
+		<SpSendAddrCompany>STARK BROTHERS FULFILLMENT         </SpSendAddrCompany>
+		<SpSendAddrLine1>PO BOX 10                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>LOUISIANA           </SpSendAddrCity>
+		<SpSendAddrState>MO</SpSendAddrState>
+		<SpSendAddrZip>63353      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany>140557                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>12802 CAPRICORN ST                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TX</SpRecipAddrState>
+		<SpRecipAddrZip>774773913  </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>63353      </SpFirstScanZip>
+		<SpTrueShipper>247329005</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>247329005</SpShipperNum9>
+		<SpPackageNum>61211300406830225771</SpPackageNum>
+		<SpManifestNum>0003366245                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>774773913  </SpDestZip>
+		<SpSortLocation>STMO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smash 2 Return Refin0000140561</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5SKTVG89                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366245                    </SpInboundManifestId>
+		<SpOriginPostalCode>63353      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>012345678901234567890123456789</SpPurchaseOrderNumber>
+		<SpMeterNumber>000138304</SpMeterNumber>
+		<SpThirdPartyBillingNumber>247329005</SpThirdPartyBillingNumber>
+		<SpSendAddrName>GFBO-SP                            </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>PO BOX 10                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>LOUISIANA           </SpSendAddrCity>
+		<SpSendAddrState>MO</SpSendAddrState>
+		<SpSendAddrZip>63353      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany>140561                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>12802 CAPRICORN ST                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TX</SpRecipAddrState>
+		<SpRecipAddrZip>774773913  </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>63353      </SpFirstScanZip>
+		<SpTrueShipper>247329005</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>247329005</SpShipperNum9>
+		<SpPackageNum>61211300406830375155</SpPackageNum>
+		<SpManifestNum>0003366245                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>774773913  </SpDestZip>
+		<SpSortLocation>STMO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smash 2 Return Refin0000140557</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SKQ2YXE                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366245                    </SpInboundManifestId>
+		<SpOriginPostalCode>63353      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>012345678901234567890123456789</SpPurchaseOrderNumber>
+		<SpMeterNumber>000158848</SpMeterNumber>
+		<SpThirdPartyBillingNumber>247329005</SpThirdPartyBillingNumber>
+		<SpSendAddrName>GFBO-SP                            </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>PO BOX 10                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>LOUISIANA           </SpSendAddrCity>
+		<SpSendAddrState>MO</SpSendAddrState>
+		<SpSendAddrZip>63353      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany>140557                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>12802 CAPRICORN ST                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TX</SpRecipAddrState>
+		<SpRecipAddrZip>774773913  </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>63353      </SpFirstScanZip>
+		<SpTrueShipper>247329005</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>247329005</SpShipperNum9>
+		<SpPackageNum>61211300406830375186</SpPackageNum>
+		<SpManifestNum>0003366245                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>774773913  </SpDestZip>
+		<SpSortLocation>STMO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smash 2 Return Refin0000140560</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SKQ2YXE                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366245                    </SpInboundManifestId>
+		<SpOriginPostalCode>63353      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>012345678901234567890123456789</SpPurchaseOrderNumber>
+		<SpMeterNumber>000158848</SpMeterNumber>
+		<SpThirdPartyBillingNumber>247329005</SpThirdPartyBillingNumber>
+		<SpSendAddrName>GFBO-SP                            </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>PO BOX 10                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>LOUISIANA           </SpSendAddrCity>
+		<SpSendAddrState>MO</SpSendAddrState>
+		<SpSendAddrZip>63353      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrLine1>12802 CAPRICORN ST                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TX</SpRecipAddrState>
+		<SpRecipAddrZip>774773913  </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>63353      </SpFirstScanZip>
+		<SpTrueShipper>247329005</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>247329005</SpShipperNum9>
+		<SpPackageNum>61211300406830375216</SpPackageNum>
+		<SpManifestNum>0003366245                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>774773913  </SpDestZip>
+		<SpSortLocation>STMO</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>Smash 2 Return Refin0000140622</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SKQ2YXE                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366245                    </SpInboundManifestId>
+		<SpOriginPostalCode>63353      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>012345678901234567890123456789</SpPurchaseOrderNumber>
+		<SpMeterNumber>000158848</SpMeterNumber>
+		<SpThirdPartyBillingNumber>247329005</SpThirdPartyBillingNumber>
+		<SpSendAddrName>GFBO-SP                            </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>PO BOX 10                          </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>LOUISIANA           </SpSendAddrCity>
+		<SpSendAddrState>MO</SpSendAddrState>
+		<SpSendAddrZip>63353      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrLine1>12802 CAPRICORN ST                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TX</SpRecipAddrState>
+		<SpRecipAddrZip>774773913  </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>63353      </SpFirstScanZip>
+		<SpTrueShipper>247329005</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507402</SpShipperNum9>
+		<SpPackageNum>02393000021220000207</SpPackageNum>
+		<SpManifestNum>0003366557                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>56950      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>N</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 NON DAS Returns      </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0918</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6PA6FDU7                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366557                    </SpInboundManifestId>
+		<SpOriginPostalCode>01007      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068247</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507402</SpThirdPartyBillingNumber>
+		<SpSendAddrName/>
+		<SpSendAddrCompany>P-122085-SMARRTZ                   </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>010079842  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01007      </SpFirstScanZip>
+		<SpTrueShipper>606507402</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507402</SpShipperNum9>
+		<SpPackageNum>02393000021220025095</SpPackageNum>
+		<SpManifestNum>0003366557                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>45</SpCustLength>
+		<SpCustWidth>30</SpCustWidth>
+		<SpCustHeight>10</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>45</SpActualLength>
+		<SpActualWidth>30</SpActualWidth>
+		<SpActualHeight>10</SpActualHeight>
+		<SpDestZip>56950      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>N</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0918</SpProductCode>
+		<SpHandlingType>O</SpHandlingType>
+		<SpCustomerManifest>5F43C4QO                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366557                    </SpInboundManifestId>
+		<SpOriginPostalCode>01007      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066225</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507402</SpThirdPartyBillingNumber>
+		<SpSendAddrName>180139                             </SpSendAddrName>
+		<SpSendAddrCompany>SMARRTZ                            </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>010079842  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01007      </SpFirstScanZip>
+		<SpTrueShipper>606507402</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507402</SpShipperNum9>
+		<SpPackageNum>02393000021220250039</SpPackageNum>
+		<SpManifestNum>0003366488                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>1.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>1.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>56950      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>N</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0918</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>DK75CIEK                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366488                    </SpInboundManifestId>
+		<SpOriginPostalCode>01007      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205401</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507402</SpThirdPartyBillingNumber>
+		<SpSendAddrName/>
+		<SpSendAddrCompany>P-122085-SMARRTZ                   </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>010079842  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>01007      </SpFirstScanZip>
+		<SpTrueShipper>606507402</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606503008</SpShipperNum9>
+		<SpPackageNum>41992000070220050044</SpPackageNum>
+		<SpManifestNum>0003366444                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>06330      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 basic EDI            </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4RR05                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366444                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205381</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606503008</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from HUB                      </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>180893                             </SpRecipAddrName>
+		<SpRecipAddrCompany>180893                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>350 RUBY ROADWILLINGTON            </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>CT</SpRecipAddrState>
+		<SpRecipAddrZip>06330      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606503008</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>41992000070320000345</SpPackageNum>
+		<SpManifestNum>0003366314                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>10.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>10.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 basic EDI            </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6PA6FDY1                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366314                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066528</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>DAS Tier 3 discount                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>180161                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDING               </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>41992000070320050531</SpPackageNum>
+		<SpManifestNum>0003366314                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>10.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>10.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 basic EDI            </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4RRD1                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366314                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205382</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>DAS Tier 3 discount                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>180161                             </SpRecipAddrName>
+		<SpRecipAddrCompany>180161                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDING               </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>41992000070320225014</SpPackageNum>
+		<SpManifestNum>0003366314                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>06330      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 basic EDI            </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SPO397S                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366314                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205403</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124851                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176602                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>350 RUBY ROADWILLINGTON            </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>CT</SpRecipAddrState>
+		<SpRecipAddrZip>06330      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>49092000070320100259</SpPackageNum>
+		<SpManifestNum>0003366543                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>00961      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43DQPZ                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366543                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066229</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>CTDM                               </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179954                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>River View                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>PR</SpRecipAddrState>
+		<SpRecipAddrZip>00961      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>61292000070320000289</SpPackageNum>
+		<SpManifestNum>0003366314                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>2.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>2.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5FAPGZKX                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366314                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066528</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from 1st scan2                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179382                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>61292000070320000388</SpPackageNum>
+		<SpManifestNum>0003366543                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>2.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>2.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>14068      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 NON DAS Returns      </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>7Z7ZUFT0                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366543                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066528</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>180114                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1289 WALDEN BUFFALO                </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>14068      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>61292000070320100217</SpPackageNum>
+		<SpManifestNum>0003366551                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>00961      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43DQP3                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366551                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066229</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Sort by reference                  </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>177516                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>River View                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>PR</SpRecipAddrState>
+		<SpRecipAddrZip>00961      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>61292000070320100248</SpPackageNum>
+		<SpManifestNum>0003366551                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>00961      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43DQPZ                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366551                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066229</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Sort by reference                  </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179801                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>River View                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>PR</SpRecipAddrState>
+		<SpRecipAddrZip>00961      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645120</SpShipperNum9>
+		<SpPackageNum>74892000070320050549</SpPackageNum>
+		<SpManifestNum>0003366314                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>0.31</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>0.31</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 basic EDI            </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4RRD1                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366314                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205382</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645120</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>DAS Tier 1 discount                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>180166                             </SpRecipAddrName>
+		<SpRecipAddrCompany>180166                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDING               </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645120</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>41992000070420000177</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>00840      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43BLIP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066230</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Sort by Recipient Co Name          </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ABC1                               </SpRecipAddrName>
+		<SpRecipAddrCompany>177518                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>Black Town                         </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>VI</SpRecipAddrState>
+		<SpRecipAddrZip>00840      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>41992000070420050196</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>15.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>15.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>12058      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6ORZJMZ8                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068234</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176995                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>253 TROY ROAD RENSSELAER           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>12058      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>41992000070420050240</SpPackageNum>
+		<SpManifestNum>0003366553                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>00840      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5FE0KR40                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366553                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068234</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>CTDM                               </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>41992000070420076066</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>15.00</SpCustWgt>
+		<SpCustDimUom/>
+		<SpCustLength/>
+		<SpCustWidth/>
+		<SpCustHeight/>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>15.00</SpActualWgt>
+		<SpActualDimUom/>
+		<SpActualLength/>
+		<SpActualWidth/>
+		<SpActualHeight/>
+		<SpDestZip>12058      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>STD A SHIPMENT                </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType/>
+		<SpCustomerManifest>72K4SB2C                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>000205383</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>PATIL VIRENDRA                     </SpSendAddrName>
+		<SpSendAddrCompany>P-122085-SMARRTZ                   </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SYNTEL LTD                         </SpRecipAddrName>
+		<SpRecipAddrCompany>PIYUSH                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>FXRS1550                           </SpRecipAddrLine1>
+		<SpRecipAddrLine2>FEDEX PARKWAY                      </SpRecipAddrLine2>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>TN</SpRecipAddrState>
+		<SpRecipAddrZip>12058      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>49092000070420000152</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96790      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43BLI0                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066230</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124852                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176645                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>140 HOBRON AVENUE                  </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96790      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>49092000070420050294</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96790      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6PDHJ5H2                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068234</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124852                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176645                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>140 HOBRON AVENUE                  </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96790      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>61292000070420000165</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>12058      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43BLI0                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066230</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Blended Invoice                    </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>177023                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>253 TROY ROAD RENSSELAER           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>12058      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>61292000070420050238</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>12058      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6OWY5OHQ                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068234</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Blended Invoice                    </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>177023                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>253 TROY ROAD RENSSELAER           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>12058      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505582</SpShipperNum9>
+		<SpPackageNum>61292000070420225025</SpPackageNum>
+		<SpManifestNum>0003366445                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>12058      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>SRBMLPL                       </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366445                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205404</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505582</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124852                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>177023                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>253 TROY ROAD RENSSELAER           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>12058      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505582</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603644620</SpShipperNum9>
+		<SpPackageNum>49092000070520025079</SpPackageNum>
+		<SpManifestNum>0003366315                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>14068      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 NON DAS Returns      </SpCustReference>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4R7QE                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366315                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205384</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603644620</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>179847                             </SpRecipAddrName>
+		<SpRecipAddrCompany>179847                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1289 WALDEN BUFFALO                </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>14068      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603644620</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606441363</SpShipperNum9>
+		<SpPackageNum>61292000070620025036</SpPackageNum>
+		<SpManifestNum>0003366431                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>1.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>4</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>1.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>4</SpActualHeight>
+		<SpDestZip>02747      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost SS20000110288       </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6OQBZR2K                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366431                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>999005                        </SpPurchaseOrderNumber>
+		<SpMeterNumber>100071209</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606441363</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>EDI New Smartpost                  </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>CLEVELAND           </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany>179920                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>SHIP TO STREET ADDRESS LINEONE AT35</SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>MA</SpRecipAddrState>
+		<SpRecipAddrZip>02747      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606441363</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606790821</SpShipperNum9>
+		<SpPackageNum>41992000070720025122</SpPackageNum>
+		<SpManifestNum>0003366547                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>99677      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 zero discount        </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6OWY5542                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366547                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068260</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606790821</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>121408                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179884                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1550 RESSEL AVENUE                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AK</SpRecipAddrState>
+		<SpRecipAddrZip>99677      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606790821</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606790821</SpShipperNum9>
+		<SpPackageNum>41992000070720100096</SpPackageNum>
+		<SpManifestNum>0003366470                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>99677      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43DQM8                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366470                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066233</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606790821</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124850                             </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176636                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1550 RESSEL AVENUE                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AK</SpRecipAddrState>
+		<SpRecipAddrZip>99677      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606790821</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606790821</SpShipperNum9>
+		<SpPackageNum>61292000070720025134</SpPackageNum>
+		<SpManifestNum>0003366555                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>09099      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5FE0K7QM                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366555                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100068260</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606790821</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from 1st scan 99 M            </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179942                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>CMR 1250                           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AE</SpRecipAddrState>
+		<SpRecipAddrZip>09099      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606790821</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606790821</SpShipperNum9>
+		<SpPackageNum>61292000070720100121</SpPackageNum>
+		<SpManifestNum>0003366544                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>10.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>10.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>96790      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43DQM8                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366544                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066233</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606790821</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>DAS Tier 4 discount                </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>180165                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>140 HOBRON AVENUE                  </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>HI</SpRecipAddrState>
+		<SpRecipAddrZip>96790      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606790821</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606505922</SpShipperNum9>
+		<SpPackageNum>49092000070820075040</SpPackageNum>
+		<SpManifestNum>0003366448                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>5.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>5.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>99555      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43D7A8                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366448                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber/>
+		<SpMeterNumber>100066234</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606505922</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>No Reference1                      </SpSendAddrCompany>
+		<SpSendAddrLine1>31 FEDERAL ST                      </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>BELCHERTOWN         </SpSendAddrCity>
+		<SpSendAddrState>MA</SpSendAddrState>
+		<SpSendAddrZip>01007      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176638                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1550 RESSEL AVENUE ANCHORAGE       </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AK</SpRecipAddrState>
+		<SpRecipAddrZip>99555      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606505922</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507682</SpShipperNum9>
+		<SpPackageNum>41992000071120000122</SpPackageNum>
+		<SpManifestNum>0003366524                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>1.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>1.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>04072      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F5QUXYR                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366524                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100067548</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507682</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>1601 MONROVIA AVE                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>COSTA MESA          </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>92627      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176993                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>115 INDUSTRIAL PARK ROAD           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>ME</SpRecipAddrState>
+		<SpRecipAddrZip>04072      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606507682</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507682</SpShipperNum9>
+		<SpPackageNum>61292000071120000134</SpPackageNum>
+		<SpManifestNum>0003366534                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6ORZIKCM                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366534                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100067548</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507682</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176998                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606507682</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507682</SpShipperNum9>
+		<SpPackageNum>61292000071120000202</SpPackageNum>
+		<SpManifestNum>0003366524                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>1.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>4</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>1.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>4</SpActualHeight>
+		<SpDestZip>96278      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost SS20000110082       </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6PBTYQBU                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366524                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>999071                        </SpPurchaseOrderNumber>
+		<SpMeterNumber>100067548</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507682</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>Accont Tied To CC                  </SpSendAddrCompany>
+		<SpSendAddrLine1>1601 MONROVIA AVE                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>COSTA MESA          </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>92627      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>Federal Express                    </SpRecipAddrName>
+		<SpRecipAddrCompany>177000                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>Unit 2050 Box 4190                 </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AP</SpRecipAddrState>
+		<SpRecipAddrZip>96278      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606507682</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606507682</SpShipperNum9>
+		<SpPackageNum>61292000071120075026</SpPackageNum>
+		<SpManifestNum>0003366534                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43D79U                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366534                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066238</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606507682</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>176998                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606507682</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606471386</SpShipperNum9>
+		<SpPackageNum>61292000071320000118</SpPackageNum>
+		<SpManifestNum>0003366535                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>12.25</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>4</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>12.25</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>4</SpActualHeight>
+		<SpDestZip>02747      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>SmartPost SS20000110099       </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6PA6FDRQ                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366535                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>999088                        </SpPurchaseOrderNumber>
+		<SpMeterNumber>100069123</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606471386</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Accont Tied To CC                  </SpSendAddrCompany>
+		<SpSendAddrLine1>1601 MONROVIA AVE                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>COSTA MESA          </SpSendAddrCity>
+		<SpSendAddrState>CA</SpSendAddrState>
+		<SpSendAddrZip>92627      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>SHIP TO CONTACT NAME WITH LG30     </SpRecipAddrName>
+		<SpRecipAddrCompany>177015                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>SHIP TO STREET ADDRESS LINEONE AT35</SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>MA</SpRecipAddrState>
+		<SpRecipAddrZip>02747      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606471386</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606471386</SpShipperNum9>
+		<SpPackageNum>74892000071320000091</SpPackageNum>
+		<SpManifestNum>0003366530                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>0.99</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>0.99</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6OWY4LSR                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366530                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100069123</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606471386</SpThirdPartyBillingNumber>
+		<SpSendAddrName/>
+		<SpSendAddrCompany/>
+		<SpSendAddrCity/>
+		<SpSendAddrState/>
+		<SpSendAddrZip/>
+		<SpSendAddrCountry/>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179804                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606471386</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606503288</SpShipperNum9>
+		<SpPackageNum>02393000021320050041</SpPackageNum>
+		<SpManifestNum>0003366491                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>10</SpCustLength>
+		<SpCustWidth>10</SpCustWidth>
+		<SpCustHeight>10</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>10</SpActualLength>
+		<SpActualWidth>10</SpActualWidth>
+		<SpActualHeight>10</SpActualHeight>
+		<SpDestZip>56950      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>N</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Variable discount 55%</SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0918</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6ORZJMUX                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366491                    </SpInboundManifestId>
+		<SpOriginPostalCode>31569      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100069746</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606503288</SpThirdPartyBillingNumber>
+		<SpSendAddrName/>
+		<SpSendAddrCompany>P-122085-SMARRTZ                   </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>315694448  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>31569      </SpFirstScanZip>
+		<SpTrueShipper>606503288</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606503288</SpShipperNum9>
+		<SpPackageNum>02393000021320075037</SpPackageNum>
+		<SpManifestNum>0003366491                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>10</SpCustLength>
+		<SpCustWidth>10</SpCustWidth>
+		<SpCustHeight>10</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>10</SpActualLength>
+		<SpActualWidth>10</SpActualWidth>
+		<SpActualHeight>10</SpActualHeight>
+		<SpDestZip>56950      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>N</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0918</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5EXH7TB1                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366491                    </SpInboundManifestId>
+		<SpOriginPostalCode>31569      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066241</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606503288</SpThirdPartyBillingNumber>
+		<SpSendAddrName>179932                             </SpSendAddrName>
+		<SpSendAddrCompany>SMARRTZ                            </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>315694448  </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>ADDRESS UNAVAILABLE</SpRecipAddrName>
+		<SpRecipAddrCompany/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState/>
+		<SpRecipAddrZip/>
+		<SpRecipAddrCountry/>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>31569      </SpFirstScanZip>
+		<SpTrueShipper>606503288</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606444443</SpShipperNum9>
+		<SpPackageNum>61292000071520000161</SpPackageNum>
+		<SpManifestNum>0003366548                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>4.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>4.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>09099      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5FFO30YP                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366548                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066565</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606444443</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from 1st scan 99 M            </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>180119                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>CMR 1250                           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>AE</SpRecipAddrState>
+		<SpRecipAddrZip>09099      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606444443</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606444443</SpShipperNum9>
+		<SpPackageNum>61292000071520050067</SpPackageNum>
+		<SpManifestNum>0003366548                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>1.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>1.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>14068      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43CO08                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366548                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066243</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606444443</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from 1st scan 3               </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179386                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>1289 WALDEN BUFFALO                </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NY</SpRecipAddrState>
+		<SpRecipAddrZip>14068      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606444443</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606444443</SpShipperNum9>
+		<SpPackageNum>74892000071520000143</SpPackageNum>
+		<SpManifestNum>0003366540                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>0.99</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>0.99</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6OVAL9CF                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366540                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066565</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606444443</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Sort by Payor                      </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179805                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606444443</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606444443</SpShipperNum9>
+		<SpPackageNum>74892000071520050070</SpPackageNum>
+		<SpManifestNum>0003366540                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>0.99</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>0.99</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43CO08                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366540                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066243</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606444443</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Sort by Payor                      </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179805                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606444443</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>603645200</SpShipperNum9>
+		<SpPackageNum>41992000071620050061</SpPackageNum>
+		<SpManifestNum>0003366321                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>10.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>10.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>04072      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4RR0T                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366321                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205396</SpMeterNumber>
+		<SpThirdPartyBillingNumber>603645200</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Gayatri Chinta                     </SpSendAddrName>
+		<SpSendAddrCompany>124843                             </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>176678                             </SpRecipAddrName>
+		<SpRecipAddrCompany>176678                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>115 INDUSTRIAL PARK ROAD           </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>ME</SpRecipAddrState>
+		<SpRecipAddrZip>04072      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>603645200</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606508042</SpShipperNum9>
+		<SpPackageNum>41992000071820050038</SpPackageNum>
+		<SpManifestNum>0003366542                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>6.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>6.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference/>
+		<SpPostalSubClass>B</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0915</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>5F43CNZA                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366542                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066246</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606508042</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from 1st Scan 4               </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179928                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDING               </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606508042</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606508042</SpShipperNum9>
+		<SpPackageNum>49092000071820075061</SpPackageNum>
+		<SpManifestNum>0003366449                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>15.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>15.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>02747      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 NON DAS Returns      </SpCustReference>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>6ORZK65X                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366449                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>100066561</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606508042</SpThirdPartyBillingNumber>
+		<SpSendAddrName/>
+		<SpSendAddrCompany/>
+		<SpSendAddrCity/>
+		<SpSendAddrState/>
+		<SpSendAddrZip/>
+		<SpSendAddrCountry/>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>179929                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>SHIP TO STREET ADDRESS LINEONE AT35</SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>MA</SpRecipAddrState>
+		<SpRecipAddrZip>02747      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606508042</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606468709</SpShipperNum9>
+		<SpPackageNum>49092000071920025065</SpPackageNum>
+		<SpManifestNum>0003366442                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>15.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>6</SpCustLength>
+		<SpCustWidth>4</SpCustWidth>
+		<SpCustHeight>1</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>15.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>6</SpActualLength>
+		<SpActualWidth>4</SpActualWidth>
+		<SpActualHeight>1</SpActualHeight>
+		<SpDestZip>02747      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 NON DAS Returns      </SpCustReference>
+		<SpPostalSubClass>M</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0916</SpProductCode>
+		<SpHandlingType>N</SpHandlingType>
+		<SpCustomerManifest>72K4R7QH                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366442                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>1.23457E+28                   </SpPurchaseOrderNumber>
+		<SpMeterNumber>000205399</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606468709</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>Zone from EPDI                     </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName>180895                             </SpRecipAddrName>
+		<SpRecipAddrCompany>180895                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>SHIP TO STREET ADDRESS LINEONE AT35</SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>MA</SpRecipAddrState>
+		<SpRecipAddrZip>02747      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606468709</SpTrueShipper>
+	</Package>
+	<Package>
+		<SpShipperNum9>606444583</SpShipperNum9>
+		<SpPackageNum>61292000072020050038</SpPackageNum>
+		<SpManifestNum>0003366528                    </SpManifestNum>
+		<SpSortEndDate>2015-05-07T00:00:00</SpSortEndDate>
+		<SpPickupDate>2015-05-07T00:00:00</SpPickupDate>
+		<SpArrivalDate>2015-05-07T00:00:00</SpArrivalDate>
+		<SpCustWgtUom>L</SpCustWgtUom>
+		<SpCustWgt>70.00</SpCustWgt>
+		<SpCustDimUom>I</SpCustDimUom>
+		<SpCustLength>45</SpCustLength>
+		<SpCustWidth>30</SpCustWidth>
+		<SpCustHeight>10</SpCustHeight>
+		<SpActualWgtUom>L</SpActualWgtUom>
+		<SpActualWgt>70.00</SpActualWgt>
+		<SpActualDimUom>I</SpActualDimUom>
+		<SpActualLength>45</SpActualLength>
+		<SpActualWidth>30</SpActualWidth>
+		<SpActualHeight>10</SpActualHeight>
+		<SpDestZip>03044      </SpDestZip>
+		<SpSortLocation>NBWI</SpSortLocation>
+		<SpDelvConfFlag>Y</SpDelvConfFlag>
+		<SpCustReference>PLC 14.3 Full discount        </SpCustReference>
+		<SpPostalSubClass>P</SpPostalSubClass>
+		<SpProcCategory>S</SpProcCategory>
+		<SpSortStartDate>2015-05-07T00:00:00</SpSortStartDate>
+		<SpProductCode>0913</SpProductCode>
+		<SpHandlingType>O</SpHandlingType>
+		<SpCustomerManifest>5FR8VIWM                      </SpCustomerManifest>
+		<SpDeliveryDate>2015-05-07T00:00:00</SpDeliveryDate>
+		<SpInboundManifestId>0003366528                    </SpInboundManifestId>
+		<SpOriginPostalCode>53151      </SpOriginPostalCode>
+		<SpPurchaseOrderNumber>12345678901234500000000000000 </SpPurchaseOrderNumber>
+		<SpMeterNumber>100069743</SpMeterNumber>
+		<SpThirdPartyBillingNumber>606444583</SpThirdPartyBillingNumber>
+		<SpSendAddrName>Virendra                           </SpSendAddrName>
+		<SpSendAddrCompany>SQA                                </SpSendAddrCompany>
+		<SpSendAddrLine1>81 TRACE CHAIN RD                  </SpSendAddrLine1>
+		<SpSendAddrLine2/>
+		<SpSendAddrCity>WOODBINE            </SpSendAddrCity>
+		<SpSendAddrState>GA</SpSendAddrState>
+		<SpSendAddrZip>31569      </SpSendAddrZip>
+		<SpSendAddrCountry>US</SpSendAddrCountry>
+		<SpRecipAddrName/>
+		<SpRecipAddrCompany>177027                             </SpRecipAddrCompany>
+		<SpRecipAddrLine1>4 KITTY HAWK LANDINGLONDONDERRY    </SpRecipAddrLine1>
+		<SpRecipAddrLine2/>
+		<SpRecipAddrCity/>
+		<SpRecipAddrState>NH</SpRecipAddrState>
+		<SpRecipAddrZip>03044      </SpRecipAddrZip>
+		<SpRecipAddrCountry>US</SpRecipAddrCountry>
+		<SpAltPackageId>00000000            </SpAltPackageId>
+		<SpFirstScanZip>53151      </SpFirstScanZip>
+		<SpTrueShipper>606444583</SpTrueShipper>
+	</Package>
+</ECIPackages>

@@ -1,0 +1,71 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="rodsSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName">
+            <value>oracle.jdbc.driver.OracleDriver</value>
+        </property>
+        <property name="url">
+            <value>jdbc:oracle:thin:@ldap://oidprd.gss.ground.fedex.com:389/SPRODS_SVC1_L3,cn=OracleContext,dc=ground,dc=fedex,dc=com</value>
+        </property>
+        <property name="username">
+            <value>SPRODS_USR</value>
+        </property>
+        <property name="password">
+            <value>SPRODS11</value>
+        </property>
+        <property name="poolPreparedStatements">
+            <value>true</value>
+        </property>
+        <property name="maxActive">
+            <value>10</value>
+        </property>
+        <property name="maxIdle">
+            <value>10</value>
+        </property>
+        <property name="defaultAutoCommit">
+            <value>false</value>
+        </property>
+    </bean>
+
+    <bean id="ctSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName">
+            <value>oracle.jdbc.driver.OracleDriver</value>
+        </property>
+        <property name="url">
+            <value>jdbc:oracle:thin:@ldap://oidprd.gss.ground.fedex.com:389/SPCT_SVC1_L3,cn=OracleContext,dc=ground,dc=fedex,dc=com</value>
+        </property>
+        <property name="username">
+            <value>SPCT_USR</value>
+        </property>
+        <property name="password">
+            <value>SPCT11</value>
+        </property>
+        <property name="poolPreparedStatements">
+            <value>true</value>
+        </property>
+        <property name="maxActive">
+            <value>10</value>
+        </property>
+        <property name="maxIdle">
+            <value>10</value>
+        </property>
+        <property name="defaultAutoCommit">
+            <value>false</value>
+        </property>
+    </bean>
+
+    <bean id="packageDetailXref" class="com.fedex.smartpost.utilities.dao.PackageDetailXrefImpl">
+        <constructor-arg ref="rodsSource" />
+    </bean>
+
+    <bean id="eCustomer" class="com.fedex.smartpost.utilities.dao.ECustomerDaoImpl">
+        <constructor-arg ref="rodsSource" />
+    </bean>
+
+    <bean id="packageDao" class="com.fedex.smartpost.utilities.dao.PackageDaoImpl">
+        <constructor-arg ref="ctSource" />
+    </bean>
+</beans>

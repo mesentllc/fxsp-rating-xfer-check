@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by Kiran Ambatipudi (FedEx Vendor Services) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:rsc="http://xmlns.fedex.com/FDXREV.Shared" xmlns:pfir="http://xmlns.fedex.com/FDXREV.PFIRated.FXG/1.1.1" xmlns:pfis="http://xmlns.fedex.com/FDXREV.PFIRated.Shared/1.1.1" targetNamespace="http://xmlns.fedex.com/FDXREV.PFIRated.FXG/1.1.1" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.1.1">
+        <xs:import namespace="http://xmlns.fedex.com/FDXREV.Shared" schemaLocation="FDXREV.Shared/1.1.5/FDXREV.Shared.xsd"/>
+        <xs:import namespace="http://xmlns.fedex.com/FDXREV.PFIRated.Shared/1.1.1" schemaLocation="FDXREV.PFIRated.Shared/1.1.1/FDXREV.PFIRated.Shared.xsd"/>
+        <xs:element name="FDXFXG.RatingData">
+                <xs:annotation>
+                        <xs:documentation>
+                                Comment describing your root element
+                        </xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                        <xs:sequence>
+                                <xs:element name="alternateInfo" type="pfir:alternateInfo" minOccurs="0"/>
+                                <xs:element name="multiWeightInfo" type="pfir:multiWeightInfo" minOccurs="0"/>
+                                <xs:element name="wghts" type="pfis:extendedWeightType" minOccurs="0" maxOccurs="unbounded"/>
+                                <xs:element name="pickUpInfo" type="pfir:pickUpInfo" minOccurs="0"/>
+                        </xs:sequence>
+                        <xs:attribute name="versionNbr" type="xs:string" use="required">
+                                <xs:annotation>
+                                        <xs:documentation>
+                                                xs:string length undefined Really
+                                                "messageVersionNumber"
+                                        </xs:documentation>
+                                        <xs:documentation source="AMB">
+                                                No mapping for AMB.. this should match the
+                                                version number of the schema used for this
+                                                message.
+                                        </xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="dtBillCycle">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="1"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="prefWgtInd">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="1"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="invCompCd">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="1"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="sortKey">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="3"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="prcsSeqNbr">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=10;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="10"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="custRefNbr">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=10;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="10"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="usdToCADExcgRt" type="rsc:amountExtendedType">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="usdToCADWeeklyExcgRt" type="rsc:amountExtendedType">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="addCntry" type="rsc:CountryCode">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=2 maxlen=2;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="callTagAccessCd">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="1"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="cadToUSDExchRate" type="rsc:amountExtendedType">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=10;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="svcCd">
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:minLength value="3"/>
+                                                <xs:maxLength value="3"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="custRefDate" type="xs:date">
+                                <xs:annotation>
+                                        <xs:documentation source="GRD">Ground Specific Date mapped to invRefDate in DLRS</xs:documentation>
+                                </xs:annotation>
+                        </xs:attribute>
+                </xs:complexType>
+        </xs:element>
+        <xs:complexType name="multiWeightInfo">
+                <xs:sequence>
+                        <xs:element name="discountBillToAmount" type="rsc:amountType"/>
+                        <xs:element name="grsBillToAmount" type="rsc:amountType"/>
+                        <xs:element name="grsDiscountAmount" type="rsc:amountType"/>
+                        <xs:element name="grsRatedAmount" type="rsc:amountType"/>
+                        <xs:element name="currCode" type="rsc:currencyCodeType"/>
+                        <xs:element name="ppNumber">
+                                <xs:annotation>
+                                        <xs:documentation>xs:string minlen=1 maxlen=10;</xs:documentation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                                <xs:simpleType>
+                                        <xs:restriction base="xs:string">
+                                                <xs:maxLength value="10"/>
+                                        </xs:restriction>
+                                </xs:simpleType>
+                        </xs:element>
+                        <xs:element name="preWeightType" type="rsc:weightUOMType">
+                                <xs:annotation>
+                                        <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                                </xs:annotation>
+                        </xs:element>
+                </xs:sequence>
+        </xs:complexType>
+        <xs:complexType name="edInfo">
+                <xs:sequence>
+                        <xs:element name="thresholdAmount" type="rsc:amountType"/>
+                        <xs:element name="thresholdCurrCode" type="rsc:currencyCodeType"/>
+                        <xs:element name="graceDiscEndDate" type="xs:dateTime" minOccurs="0"/>
+                        <xs:element name="contrOpCos" type="rsc:companyCodeType" minOccurs="0" maxOccurs="5"/>
+                </xs:sequence>
+        </xs:complexType>
+        <xs:complexType name="alternateInfo">
+                <xs:sequence>
+                        <xs:element name="altAddress" type="pfis:addressType" minOccurs="0"/>
+                </xs:sequence>
+                <xs:attribute name="trkngNbr" type="rsc:trackingItemNumberType"/>
+                <xs:attribute name="pfxTrkngNbr" type="rsc:trackingNumberPrefixType"/>
+        </xs:complexType>
+        <xs:complexType name="bumpUpInfo">
+                <xs:attribute name="wgt" type="rsc:weightType"/>
+                <xs:attribute name="uom" type="rsc:weightUOMType"/>
+                <xs:attribute name="ind">
+                        <xs:annotation>
+                                <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                        </xs:annotation>
+                        <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                        <xs:maxLength value="1"/>
+                                </xs:restriction>
+                        </xs:simpleType>
+                </xs:attribute>
+        </xs:complexType>
+        <xs:complexType name="proRatedInfo">
+                <xs:attribute name="wgt" type="rsc:weightType"/>
+                <xs:attribute name="uom" type="rsc:weightUOMType"/>
+                <xs:attribute name="ind">
+                        <xs:annotation>
+                                <xs:documentation>xs:string minlen=1 maxlen=1;</xs:documentation>
+                                <xs:documentation source="GRD">Ground Specific</xs:documentation>
+                        </xs:annotation>
+                        <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                        <xs:maxLength value="1"/>
+                                </xs:restriction>
+                        </xs:simpleType>
+                </xs:attribute>
+        </xs:complexType>
+        <xs:complexType name="pickUpInfo">
+                <xs:sequence>
+                        <xs:element name="pickUpAddress" type="pfis:addressType" minOccurs="0"/>
+                </xs:sequence>
+                <xs:attribute name="coCd" type="rsc:companyCodeType"/>
+        </xs:complexType>
+</xs:schema>

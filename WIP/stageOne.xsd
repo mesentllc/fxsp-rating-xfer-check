@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="ECIPackages">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Package"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Package">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SpShipperNum9" type="xs:integer" />
+        <xs:element name="SpPackageNum" type="xs:integer" />
+        <xs:element name="SpManifestNum" type="xs:integer" />
+        <xs:element name="SpSortEndDate" type="xs:dateTime" />
+        <xs:element name="SpPickupDate" type="xs:dateTime" />
+        <xs:element name="SpPickupDate" type="xs:dateTime" />
+        <xs:element name="SpCustWgtUom" type="xs:string" />
+        <xs:element name="SpCustWgt" type="xs:string" />
+        <xs:element name="SpCustDimUom" type="xs:string" />
+        <xs:element name="SpCustLength" type="xs:string" />
+        <xs:element name="SpCustWidth" type="xs:string" />
+        <xs:element name="SpCustHeight" type="xs:string" />
+        <xs:element name="SpActualWgtUom" type="xs:string" />
+        <xs:element name="SpActualWgt" type="xs:string" />
+        <xs:element name="SpActualDimUom" type="xs:string" />
+        <xs:element name="SpActualLength" type="xs:string" />
+        <xs:element name="SpActualWidth" type="xs:string" />
+        <xs:element name="SpActualHeight" type="xs:string" />
+        <xs:element name="SpDestZip" type="xs:integer" />
+        <xs:element name="SpSortLocation" type="xs:NCName" />
+        <xs:element name="SpDelvConfFlag" type="xs:NCName" />
+        <xs:element name="SpCustReference" type="xs:string" />
+        <xs:element name="SpPostalSubClass" type="xs:NCName" />
+        <xs:element name="SpProcCategory" type="xs:NCName" />
+        <xs:element name="SpSortStartDate" type="xs:dateTime" />
+        <xs:element name="SpProductCode" type="xs:integer" />
+        <xs:element name="SpHandlingType" type="xs:string" />
+        <xs:element name="SpCustomerManifest" type="xs:NMTOKEN" />
+        <xs:element name="SpDeliveryDate" type="xs:dateTime" />
+        <xs:element name="SpInboundManifestId" type="xs:integer" />
+        <xs:element name="SpOriginPostalCode" type="xs:integer" />
+        <xs:element name="SpPurchaseOrderNumber" type="xs:string" />
+        <xs:element name="SpMeterNumber" type="xs:integer" />
+        <xs:element name="SpThirdPartyBillingNumber" type="xs:integer" />
+        <xs:element name="SpSendAddrName" type="xs:string" />
+        <xs:element name="SpSendAddrCompany" type="xs:string" />
+        <xs:sequence minOccurs="0">
+          <xs:element name="SpSendAddrLine1" type="xs:string" />
+          <xs:element name="SpSendAddrLine2" type="xs:string" />
+        </xs:sequence>
+        <xs:element name="SpSendAddrCity" type="xs:string" />
+        <xs:element name="SpSendAddrState" type="xs:string" />
+        <xs:element name="SpSendAddrZip" type="xs:string" />
+        <xs:element name="SpSendAddrCountry" type="xs:string" />
+        <xs:element name="SpRecipAddrName" type="xs:string" />
+        <xs:element name="SpRecipAddrCompany" type="xs:string" />
+        <xs:sequence minOccurs="0">
+          <xs:element name="SpRecipAddrLine1" type="xs:string" />
+          <xs:element name="SpRecipAddrLine2" type="xs:string" />
+        </xs:sequence>
+        <xs:element name="SpRecipAddrCity" type="xs:string" />
+        <xs:element name="SpRecipAddrState" type="xs:string"/>
+        <xs:element name="SpRecipAddrZip" type="xs:string"/>
+        <xs:element name="SpRecipAddrCountry" type="xs:string"/>
+        <xs:element name="SpAltPackageId" type="xs:integer"/>
+        <xs:element name="SpFirstScanZip" type="xs:integer"/>
+        <xs:element name="SpTrueShipper" type="xs:integer"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
